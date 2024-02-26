@@ -86,6 +86,6 @@
 
 ---
 ### Решение 3
-1. -
+[ссылка на граф коммитов](https://github.com/duskdemon/sys-29-hw-8.01/network)
 
 ---
