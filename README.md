@@ -61,7 +61,7 @@
 
 ---
 ### Решение 2
-1. 
+[Ссылка на коммит c измененным .gitignore ](https://github.com/duskdemon/sys-29-hw-8.01/commit/dc04bc6b83a1dc6e8ab7f981c18fc3387dd6010c)
 
 ---
 
